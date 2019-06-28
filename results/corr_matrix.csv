@@ -1,0 +1,31 @@
+;var;value
+1;SeniorCitizen;0,15088932817647308
+2;Partner;0,15044754495917653
+3;Dependents;0,16422140157972526
+5;PaperlessBilling;0,19182533166646787
+6;target;1,0
+11;InternetService_Fiber optic;0,3080197449448228
+12;InternetService_No;0,22789044975609343
+13;OnlineSecurity_No;0,3426367998511226
+14;OnlineSecurity_No service;0,22789044975609343
+15;OnlineSecurity_Yes;0,17122629194855268
+16;OnlineBackup_No;0,2680051809623599
+17;OnlineBackup_No service;0,22789044975609343
+19;DeviceProtection_No;0,2524813605956848
+20;DeviceProtection_No service;0,22789044975609343
+22;TechSupport_No;0,337280727735197
+23;TechSupport_No service;0,22789044975609343
+24;TechSupport_Yes;0,16467355590159383
+26;StreamingTV_No service;0,22789044975609343
+29;StreamingMovies_No service;0,22789044975609343
+31;Contract_Month-to-month;0,4051029106879898
+32;Contract_One year;0,17782001834990793
+33;Contract_Two year;0,3022534693496505
+36;PaymentMethod_Electronic check;0,30191874901128474
+38;tenure_bin_1;0,3205940642453768
+40;tenure_bin_3;0,26675782215118554
+41;MonthlyCharges_bin_1;0,19795818568871978
+43;MonthlyCharges_bin_3;0,15194686908533397
+44;TheoMonthlyCharges_bin_1;0,18926979200043123
+46;TheoMonthlyCharges_bin_3;0,24060129421927737
+47;TotalCharges_bin_1;0,1504341406291694
