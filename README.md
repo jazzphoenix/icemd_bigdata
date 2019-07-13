@@ -21,3 +21,5 @@ Así mismo, el Dashboard permite filtrar por los principales campos:
 * Tipo de Usuario.
 * Estación Origen / Destino.
 * Intervalo Horario.
+
+Video demo https://www.dropbox.com/sh/wx4i3tl48htrubn/AAAnCSzjtTRrJjeV84J3-x1Xa?dl=0
